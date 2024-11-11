@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/domasbelickas/git repos/GenAI/venv/bin/python3.12" "$0" "$@"
-' '''
+#!/Users/domasbelickas/git_repos/GenAI/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
