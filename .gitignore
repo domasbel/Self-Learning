@@ -1,2 +1,3 @@
 venv/
-Churn_Modeling.csv
+*.csv
+1_ANN_Project
